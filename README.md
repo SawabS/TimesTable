@@ -1,8 +1,4 @@
-Below is an improved and well-structured README file you can use for your GitHub project. You can copy the content below into your repository’s README.md file and adjust the details as needed:
-
----
-
-# Project
+# TimesTable
 
 A modern starter template for building web applications. This project provides a solid foundation using modern tools and best practices to help you get started quickly.
 
