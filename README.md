@@ -15,7 +15,7 @@ A modern starter template for building web applications. This project provides a
 
 ## Overview
 
-This repository is designed as a starting point for developing web applications. It features a modular architecture, easy scalability, and a focus on performance and developer experience. Whether you’re building a personal project or a production-ready application, this template provides the necessary setup and structure.
+This project is built using bold.new and I do not have much knowledge about what I build so I'm learning it. I mean, what a better way than knowing what to learn without aiming around the bush. Feel free to contribute and put your knowledge and ideas into this project!
 
 ## Features
 
